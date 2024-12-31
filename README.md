@@ -1,4 +1,4 @@
-- 👋 Hi, I’m OmarrAymann
+- 👋 Hi, I’m OmarAyman
 
 
 <!---
