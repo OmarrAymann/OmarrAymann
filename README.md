@@ -25,10 +25,4 @@
 - Docker, Git
 - Linux
 
-## Let's Connect
-
--  **Email:** 3omargmi@gmail.com
--  **LinkedIn:** [linkedin.com/in/omar-ayman](www.linkedin.com/in/omar-elgema3y)
-
-
 🚀 Always open to collaboration and new opportunities in Ai
