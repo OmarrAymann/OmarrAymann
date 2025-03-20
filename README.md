@@ -1,12 +1,10 @@
-# Hello 👋 What's up?
+# Hello I'm Omar Aymann, What's up? 👋
 
 ## About Me
+-  Graduated from **Mansoura University** , Communication and Electronics Department.
+-  Currently studying : **AI & ML Trainee at ITI (9-month scholarship)**
+exploring advanced topics in **Deep Learning, Natural Language Processing, and Computer Vision**.
 
-- **Omar Ayman**, AI Engineer.
--  Graduated from **Mansoura University**, Communication and Electronics Department.
--  Currently studying at **ITI Intake 45  AI Track**.
--  Passionate about **Machine learning, Deep Learning, AI Model Optimization, and Computer Vision Applications**.
--  Always exploring new advancements in AI and building real-world projects.
 
 ## Technical Skills
 
