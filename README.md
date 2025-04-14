@@ -15,7 +15,7 @@
 
 ### Programming Languages
 - Python
-- C++
+- C++ (OOP)
 - C
 
 ### AI & Machine Learning
