@@ -1,9 +1,14 @@
 # Hello I'm Omar Aymann, What's up? 👋
 
 ## About Me
--  Graduated from **Mansoura University** , Communication and Electronics Department.
--  Currently studying : **AI & ML Trainee at ITI (9-month scholarship)**
-exploring advanced topics in **Deep Learning, Natural Language Processing, and Computer Vision**.
+
+- AI/ML Engineer  
+- 9-Month Professional Diploma – Artificial Intelligence & Machine Learning Track  
+  Information Technology Institute (ITI) – Ministry of Communications and Information Technology (MCIT)
+  exploring advanced topics in **Deep Learning, Natural Language Processing, and Computer Vision**.
+- B.Sc. in Electronics and Communications Engineering – Mansoura University  
+ Graduated with **Very Good with Honors**
+
 
 
 ## Technical Skills
