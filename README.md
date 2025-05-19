@@ -1,5 +1,5 @@
-# Hi, I'm Omar Ayman 👋  
-**AI Engineer | Machine Learning Enthusiast**  
+
+# **AI Engineer | Machine Learning Enthusiast**  
 
 ---
 
