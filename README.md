@@ -1,7 +1,5 @@
 # Hi, I'm Omar Ayman 👋  
 **AI Engineer | Machine Learning Enthusiast**  
-[![Visitors](https://komarev.com/ghpvc/?username=OmarrAymann)](https://github.com/OmarrAymann)
-[![Repo Views](https://komarev.com/ghpvc/?username=OmarAyman&repo=ai-career-assistant)](https://github.com/OmarrAymann/AI-Career-Assistant))
 
 ---
 
