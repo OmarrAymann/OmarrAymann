@@ -139,4 +139,3 @@ Grade: Very Good with Honors | Graduation Project: Excellent
 - **GitHub:** [github.com/OmarrAymann](https://github.com/OmarrAymann)
 - **Email:** [3omargmi@gmail.com](mailto:3omargmi@gmail.com)
 
-Languages: Arabic (Native), English (Fluent)
